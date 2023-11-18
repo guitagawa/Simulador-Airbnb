@@ -1,0 +1,50 @@
+.imagens{
+
+height: 75%;
+margin: 20px;
+padding: 10px;
+display: flex;
+justify-content: space-between;
+
+
+}
+
+img{
+border-radius: 50px;
+
+}
+
+.fotos
+{
+width: 45%;
+height: 100%;
+
+
+}
+
+.maior{
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+.menor{
+display: flex;
+align-items: center;
+flex-wrap: wrap;
+justify-content: space-around;
+
+}
+
+.foto-grande{
+ width: 90%;
+ height: 90%;
+
+}
+
+.foto-pequena{
+ width: 40%;
+ height: 40%;
+    
+}
